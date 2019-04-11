@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.box{
+	height: 80px;
+	width: 80px;
+	border: 1px solid black;
+	line-height: 80px;
+}
+.board{
+	width: 250px;
+	height: 240px;
+	display: inline-flex;
+	flex-wrap: wrap;
+
+}
